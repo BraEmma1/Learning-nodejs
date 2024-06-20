@@ -12,6 +12,5 @@ server.listen(3000, '127.0.0.1', ()=> {
 
 // Arrow functions
 
-function handleRequest()
-
+function handleRequest(){}
 const handleRequest =() => {6}
